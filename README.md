@@ -1,9 +1,20 @@
 # Github icons
 
+## Index
+
+[0-9](#0-9) [a](#a) [b](#b) [c](#c) [d](#d) [e](#e) [f](#f) [g](#g) [h](#h) [i](#i) [j](#j) [k](#k) [l](#l) [m](#m) [n](#n) [o](#o) [p](#p) [q](#q) [r](#r) [s](#s) [t](#t) [u](#u) [v](#v) [w](#w) [x](#x) [y](#y) [z](#z)
+
+## Content
+
+### 0-9
+
 :+1: `:+1:`  
 :100: `:100:`  
 :1234: `:1234:`  
 :8ball: `:8ball:`  
+
+### a
+
 :a: `:a:`  
 :ab: `:ab:`  
 :abc: `:abc:`  
@@ -48,6 +59,9 @@
 :astonished: `:astonished:`  
 :athletic_shoe: `:athletic_shoe:`  
 :atm: `:atm:`  
+
+### b
+
 :b: `:b:`  
 :baby: `:baby:`  
 :baby_bottle: `:baby_bottle:`  
@@ -125,6 +139,9 @@
 :busstop: `:busstop:`  
 :bust_in_silhouette: `:bust_in_silhouette:`  
 :busts_in_silhouette: `:busts_in_silhouette:`  
+
+### c
+
 :cactus: `:cactus:`  
 :cake: `:cake:`  
 :calendar: `:calendar:`  
@@ -230,6 +247,9 @@
 :custard: `:custard:`  
 :customs: `:customs:`  
 :cyclone: `:cyclone:`  
+
+### d
+
 :dancer: `:dancer:`  
 :dancers: `:dancers:`  
 :dango: `:dango:`  
@@ -259,6 +279,9 @@
 :dromedary_camel: `:dromedary_camel:`  
 :droplet: `:droplet:`  
 :dvd: `:dvd:`  
+
+### e
+
 :ear: `:ear:`  
 :ear_of_rice: `:ear_of_rice:`  
 :earth_africa: `:earth_africa:`  
@@ -285,6 +308,9 @@
 :expressionless: `:expressionless:`  
 :eyeglasses: `:eyeglasses:`  
 :eyes: `:eyes:`  
+
+### f
+
 :facepunch: `:facepunch:`  
 :factory: `:factory:`  
 :fallen_leaf: `:fallen_leaf:`  
@@ -330,6 +356,9 @@
 :fuelpump: `:fuelpump:`  
 :full_moon: `:full_moon:`  
 :full_moon_with_face: `:full_moon_with_face:`  
+
+### g
+
 :game_die: `:game_die:`  
 :gb: `:gb:`  
 :gem: `:gem:`  
@@ -355,6 +384,9 @@
 :guardsman: `:guardsman:`  
 :guitar: `:guitar:`  
 :gun: `:gun:`  
+
+### h
+
 :haircut: `:haircut:`  
 :hamburger: `:hamburger:`  
 :hammer: `:hammer:`  
@@ -400,6 +432,9 @@
 :house_with_garden: `:house_with_garden:`  
 :hurtrealbad: `:hurtrealbad:`  
 :hushed: `:hushed:`  
+
+### i
+
 :icecream: `:icecream:`  
 :ice_cream: `:ice_cream:`  
 :id: `:id:`  
@@ -414,6 +449,9 @@
 :iphone: `:iphone:`  
 :it: `:it:`  
 :izakaya_lantern: `:izakaya_lantern:`  
+
+### j
+
 :jack_o_lantern: `:jack_o_lantern:`  
 :japan: `:japan:`  
 :japanese_castle: `:japanese_castle:`  
@@ -423,6 +461,9 @@
 :joy: `:joy:`  
 :joy_cat: `:joy_cat:`  
 :jp: `:jp:`  
+
+### k
+
 :key: `:key:`  
 :keycap_ten: `:keycap_ten:`  
 :kimono: `:kimono:`  
@@ -435,6 +476,9 @@
 :koala: `:koala:`  
 :koko: `:koko:`  
 :kr: `:kr:`  
+
+### l
+
 :lantern: `:lantern:`  
 :large_blue_circle: `:large_blue_circle:`  
 :large_blue_diamond: `:large_blue_diamond:`  
@@ -464,6 +508,9 @@
 :love_hotel: `:love_hotel:`  
 :love_letter: `:love_letter:`  
 :low_brightness: `:low_brightness:`  
+
+### m
+
 :m: `:m:`  
 :mag: `:mag:`  
 :mag_right: `:mag_right:`  
@@ -513,6 +560,9 @@
 :musical_note: `:musical_note:`  
 :musical_score: `:musical_score:`  
 :mute: `:mute:`  
+
+### n
+
 :nail_care: `:nail_care:`  
 :name_badge: `:name_badge:`  
 :neckbeard: `:neckbeard:`  
@@ -541,6 +591,9 @@
 :notebook_with_decorative_cover: `:notebook_with_decorative_cover:`  
 :notes: `:notes:`  
 :nut_and_bolt: `:nut_and_bolt:`  
+
+### o
+
 :o: `:o:`  
 :o2: `:o2:`  
 :ocean: `:ocean:`  
@@ -567,6 +620,9 @@
 :orange_book: `:orange_book:`  
 :outbox_tray: `:outbox_tray:`  
 :ox: `:ox:`  
+
+### p
+
 :package: `:package:`  
 :page_facing_up: `:page_facing_up:`  
 :pager: `:pager:`  
@@ -621,7 +677,13 @@
 :purse: `:purse:`  
 :pushpin: `:pushpin:`  
 :put_litter_in_its_place: `:put_litter_in_its_place:`  
+
+### q
+
 :question: `:question:`  
+
+### r
+
 :rabbit: `:rabbit:`  
 :rabbit2: `:rabbit2:`  
 :racehorse: `:racehorse:`  
@@ -669,6 +731,9 @@
 :runner: `:runner:`  
 :running: `:running:`  
 :running_shirt_with_sash: `:running_shirt_with_sash:`  
+
+### s
+
 :sa: `:sa:`  
 :sagittarius: `:sagittarius:`  
 :sailboat: `:sailboat:`  
@@ -770,6 +835,9 @@
 :swimmer: `:swimmer:`  
 :symbols: `:symbols:`  
 :syringe: `:syringe:`  
+
+### t
+
 :tada: `:tada:`  
 :tanabata_tree: `:tanabata_tree:`  
 :tangerine: `:tangerine:`  
@@ -821,6 +889,9 @@
 :two_hearts: `:two_hearts:`  
 :two_men_holding_hands: `:two_men_holding_hands:`  
 :two_women_holding_hands: `:two_women_holding_hands:`  
+
+### u
+
 :u5272: `:u5272:`  
 :u5408: `:u5408:`  
 :u55b6: `:u55b6:`  
@@ -841,6 +912,9 @@
 :up: `:up:`  
 :us: `:us:`  
 :us_virgin_islands: `:us_virgin_islands:`  
+
+### v
+
 :v: `:v:`  
 :vertical_traffic_light: `:vertical_traffic_light:`  
 :vhs: `:vhs:`  
@@ -851,6 +925,9 @@
 :virgo: `:virgo:`  
 :volcano: `:volcano:`  
 :vs: `:vs:`  
+
+### w
+
 :walking: `:walking:`  
 :walking_man: `:walking_man:`  
 :walking_woman: `:walking_woman:`  
@@ -893,10 +970,19 @@
 :world_map: `:world_map:`  
 :worried: `:worried:`  
 :wrench: `:wrench:`  
+
+### x
+
 :x: `:x:`  
+
+### y
+
 :yellow_heart: `:yellow_heart:`  
 :yen: `:yen:`  
 :yum: `:yum:`  
+
+### z
+
 :zap: `:zap:`  
 :zero: `:zero:`  
 :zzz: `:zzz:`  
